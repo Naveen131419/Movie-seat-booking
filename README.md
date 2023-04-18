@@ -2,6 +2,8 @@
 
 Display movie choices and seats in a theater to select from in order to purchase tickets
 
+Demo - https://vanillawebprojects.com/projects/movie-seat-booking/
+
 ## Project Specifications
 
 - Display UI with movie select, screen, seats, legend & seat info
